@@ -1,0 +1,136 @@
+<div class="row">
+                  <!-- VEDÚCI PROJEKTU Gallo -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/gallo.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Ondrej</br>GALLO</h4>
+                          <h6 class="category text-muted">Vedúci projektu</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- MATÚŠ BUBELÍNY -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/bubeliny.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Matúš</br>BUBELÍNY</h4>
+                          <h6 class="category text-muted">BE Dev</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- MARTIN GAJDOŠ -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/gajdos.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Martin</br>GAJDOŠ</h4>
+                          <h6 class="category text-muted">FE Dev</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ŠIMON GRÁC -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/grac.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Šimon</br>GRÁC</h4>
+                          <h6 class="category text-muted">FE Dev</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- VIKTOR CHOVANEC -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/chovanec.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Viktor</br>CHOVANEC</h4>
+                          <h6 class="category text-muted">FE Dev</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- JOZEF MACHÁČ -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/machac.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Jozef</br>Macháč</h4>
+                          <h6 class="category text-muted">BE Dev</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ONDREJ ŠOLTÝS -->
+                  <div class="col-sm-6 col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="col-md-5">
+                        <div class="card-image">
+                          <img class="img" src="assets/people/soltys.jpg">
+                        </div>
+                      </div>
+                      <div class="col-md-7">
+                        <div class="card-content">
+                          <h4 class="card-title">Ondrej</br>Šoltýs</h4>
+                          <h6 class="category text-muted">BE Dev</h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="col-md-4">
+                    <div class="card card-profile card-plain">
+                      <div class="card-avatar">
+                        <a href="#pablo">
+                          <img class="img" src="/assets/people/bubeliny.jpg">
+                        </a>
+                      </div>
+
+                      <div class="card-body">
+                        <h4 class="card-title">Christian Mike</h4>
+                        <h6 class="category text-muted">Web Developer</h6>
+                        <p class="card-description">
+                          I love you like Kanye loves Kanye. Don't be scared of the truth because we need to restart the human foundation.
+                        </p>
+                      </div>
+                      <div class="card-footer justify-content-center">
+                        <a href="#pablo" class="btn btn-just-icon btn-link btn-facebook"><i class="fa fa-facebook-square"></i></a>
+                      </div>
+                    </div>
+                  </div>
