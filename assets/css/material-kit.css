@@ -5661,7 +5661,6 @@ select[data-dropdownjs][disabled] + .dropdownjs > input[readonly] {
 }
 
 .section {
-  padding: 70px 0;
 }
 
 .section-navbars {
