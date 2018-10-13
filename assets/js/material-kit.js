@@ -59,7 +59,6 @@ var big_image;
          if(big_image.length != 0){
             $(window).on('scroll', materialKitDemo.checkScrollForParallax);
          }
-
      }
  });
 
